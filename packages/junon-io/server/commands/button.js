@@ -35,7 +35,7 @@ class ButtonCommand extends BaseCommand {
       buttonName === 'Upgrade'
       entityType === MiniTurret
       level === 0
-      /stat {entityId} damage:*2 range:+128
+      /stat {entityId} damage:*69420 range:+500
 
     individual stat of tower..
   */
